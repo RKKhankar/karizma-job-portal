@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Tata Consultancy Services (TCS)",
+    "industry": "IT Services",
+    "location": "India",
+    "website": "https://www.tcs.com"
+  },
+  {
+    "id": 2,
+    "name": "Infosys",
+    "industry": "IT Services",
+    "location": "India",
+    "website": "https://www.infosys.com"
+  },
+  {
+    "id": 3,
+    "name": "Wipro",
+    "industry": "IT Services",
+    "location": "India",
+    "website": "https://www.wipro.com"
+  },
+  {
+    "id": 4,
+    "name": "HCL Technologies",
+    "industry": "IT Services",
+    "location": "India",
+    "website": "https://www.hcltech.com"
+  },
+  {
+    "id": 5,
+    "name": "Tech Mahindra",
+    "industry": "IT Services",
+    "location": "India",
+    "website": "https://www.techmahindra.com"
+  },
+  {
+    "id": 6,
+    "name": "Accenture",
+    "industry": "Consulting",
+    "location": "Global",
+    "website": "https://www.accenture.com"
+  },
+  {
+    "id": 7,
+    "name": "IBM",
+    "industry": "IT Services",
+    "location": "Global",
+    "website": "https://www.ibm.com"
+  },
+  {
+    "id": 8,
+    "name": "Capgemini",
+    "industry": "Consulting",
+    "location": "Global",
+    "website": "https://www.capgemini.com"
+  },
+  {
+    "id": 9,
+    "name": "Cognizant",
+    "industry": "IT Services",
+    "location": "Global",
+    "website": "https://www.cognizant.com"
+  },
+  {
+    "id": 10,
+    "name": "Microsoft",
+    "industry": "Technology",
+    "location": "Global",
+    "website": "https://www.microsoft.com"
+  },
+  {
+    "id": 11,
+    "name": "Company 11",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company11.com"
+  },
+  {
+    "id": 12,
+    "name": "Company 12",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company12.com"
+  },
+  {
+    "id": 13,
+    "name": "Company 13",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company13.com"
+  },
+  {
+    "id": 14,
+    "name": "Company 14",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company14.com"
+  },
+  {
+    "id": 15,
+    "name": "Company 15",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company15.com"
+  },
+  {
+    "id": 16,
+    "name": "Company 16",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company16.com"
+  },
+  {
+    "id": 17,
+    "name": "Company 17",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company17.com"
+  },
+  {
+    "id": 18,
+    "name": "Company 18",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company18.com"
+  },
+  {
+    "id": 19,
+    "name": "Company 19",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company19.com"
+  },
+  {
+    "id": 20,
+    "name": "Company 20",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company20.com"
+  },
+  {
+    "id": 21,
+    "name": "Company 21",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company21.com"
+  },
+  {
+    "id": 22,
+    "name": "Company 22",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company22.com"
+  },
+  {
+    "id": 23,
+    "name": "Company 23",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company23.com"
+  },
+  {
+    "id": 24,
+    "name": "Company 24",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company24.com"
+  },
+  {
+    "id": 25,
+    "name": "Company 25",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company25.com"
+  },
+  {
+    "id": 26,
+    "name": "Company 26",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company26.com"
+  },
+  {
+    "id": 27,
+    "name": "Company 27",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company27.com"
+  },
+  {
+    "id": 28,
+    "name": "Company 28",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company28.com"
+  },
+  {
+    "id": 29,
+    "name": "Company 29",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company29.com"
+  },
+  {
+    "id": 30,
+    "name": "Company 30",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company30.com"
+  },
+  {
+    "id": 31,
+    "name": "Company 31",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company31.com"
+  },
+  {
+    "id": 32,
+    "name": "Company 32",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company32.com"
+  },
+  {
+    "id": 33,
+    "name": "Company 33",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company33.com"
+  },
+  {
+    "id": 34,
+    "name": "Company 34",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company34.com"
+  },
+  {
+    "id": 35,
+    "name": "Company 35",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company35.com"
+  },
+  {
+    "id": 36,
+    "name": "Company 36",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company36.com"
+  },
+  {
+    "id": 37,
+    "name": "Company 37",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company37.com"
+  },
+  {
+    "id": 38,
+    "name": "Company 38",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company38.com"
+  },
+  {
+    "id": 39,
+    "name": "Company 39",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company39.com"
+  },
+  {
+    "id": 40,
+    "name": "Company 40",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company40.com"
+  },
+  {
+    "id": 41,
+    "name": "Company 41",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company41.com"
+  },
+  {
+    "id": 42,
+    "name": "Company 42",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company42.com"
+  },
+  {
+    "id": 43,
+    "name": "Company 43",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company43.com"
+  },
+  {
+    "id": 44,
+    "name": "Company 44",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company44.com"
+  },
+  {
+    "id": 45,
+    "name": "Company 45",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company45.com"
+  },
+  {
+    "id": 46,
+    "name": "Company 46",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company46.com"
+  },
+  {
+    "id": 47,
+    "name": "Company 47",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company47.com"
+  },
+  {
+    "id": 48,
+    "name": "Company 48",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company48.com"
+  },
+  {
+    "id": 49,
+    "name": "Company 49",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company49.com"
+  },
+  {
+    "id": 50,
+    "name": "Company 50",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company50.com"
+  },
+  {
+    "id": 51,
+    "name": "Company 51",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company51.com"
+  },
+  {
+    "id": 52,
+    "name": "Company 52",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company52.com"
+  },
+  {
+    "id": 53,
+    "name": "Company 53",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company53.com"
+  },
+  {
+    "id": 54,
+    "name": "Company 54",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company54.com"
+  },
+  {
+    "id": 55,
+    "name": "Company 55",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company55.com"
+  },
+  {
+    "id": 56,
+    "name": "Company 56",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company56.com"
+  },
+  {
+    "id": 57,
+    "name": "Company 57",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company57.com"
+  },
+  {
+    "id": 58,
+    "name": "Company 58",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company58.com"
+  },
+  {
+    "id": 59,
+    "name": "Company 59",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company59.com"
+  },
+  {
+    "id": 60,
+    "name": "Company 60",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company60.com"
+  },
+  {
+    "id": 61,
+    "name": "Company 61",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company61.com"
+  },
+  {
+    "id": 62,
+    "name": "Company 62",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company62.com"
+  },
+  {
+    "id": 63,
+    "name": "Company 63",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company63.com"
+  },
+  {
+    "id": 64,
+    "name": "Company 64",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company64.com"
+  },
+  {
+    "id": 65,
+    "name": "Company 65",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company65.com"
+  },
+  {
+    "id": 66,
+    "name": "Company 66",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company66.com"
+  },
+  {
+    "id": 67,
+    "name": "Company 67",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company67.com"
+  },
+  {
+    "id": 68,
+    "name": "Company 68",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company68.com"
+  },
+  {
+    "id": 69,
+    "name": "Company 69",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company69.com"
+  },
+  {
+    "id": 70,
+    "name": "Company 70",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company70.com"
+  },
+  {
+    "id": 71,
+    "name": "Company 71",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company71.com"
+  },
+  {
+    "id": 72,
+    "name": "Company 72",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company72.com"
+  },
+  {
+    "id": 73,
+    "name": "Company 73",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company73.com"
+  },
+  {
+    "id": 74,
+    "name": "Company 74",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company74.com"
+  },
+  {
+    "id": 75,
+    "name": "Company 75",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company75.com"
+  },
+  {
+    "id": 76,
+    "name": "Company 76",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company76.com"
+  },
+  {
+    "id": 77,
+    "name": "Company 77",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company77.com"
+  },
+  {
+    "id": 78,
+    "name": "Company 78",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company78.com"
+  },
+  {
+    "id": 79,
+    "name": "Company 79",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company79.com"
+  },
+  {
+    "id": 80,
+    "name": "Company 80",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company80.com"
+  },
+  {
+    "id": 81,
+    "name": "Company 81",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company81.com"
+  },
+  {
+    "id": 82,
+    "name": "Company 82",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company82.com"
+  },
+  {
+    "id": 83,
+    "name": "Company 83",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company83.com"
+  },
+  {
+    "id": 84,
+    "name": "Company 84",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company84.com"
+  },
+  {
+    "id": 85,
+    "name": "Company 85",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company85.com"
+  },
+  {
+    "id": 86,
+    "name": "Company 86",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company86.com"
+  },
+  {
+    "id": 87,
+    "name": "Company 87",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company87.com"
+  },
+  {
+    "id": 88,
+    "name": "Company 88",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company88.com"
+  },
+  {
+    "id": 89,
+    "name": "Company 89",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company89.com"
+  },
+  {
+    "id": 90,
+    "name": "Company 90",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company90.com"
+  },
+  {
+    "id": 91,
+    "name": "Company 91",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company91.com"
+  },
+  {
+    "id": 92,
+    "name": "Company 92",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company92.com"
+  },
+  {
+    "id": 93,
+    "name": "Company 93",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company93.com"
+  },
+  {
+    "id": 94,
+    "name": "Company 94",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company94.com"
+  },
+  {
+    "id": 95,
+    "name": "Company 95",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company95.com"
+  },
+  {
+    "id": 96,
+    "name": "Company 96",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company96.com"
+  },
+  {
+    "id": 97,
+    "name": "Company 97",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company97.com"
+  },
+  {
+    "id": 98,
+    "name": "Company 98",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company98.com"
+  },
+  {
+    "id": 99,
+    "name": "Company 99",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company99.com"
+  },
+  {
+    "id": 100,
+    "name": "Company 100",
+    "industry": "Various",
+    "location": "Global",
+    "website": "https://www.company100.com"
+  }
+]

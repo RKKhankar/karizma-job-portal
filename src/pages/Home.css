@@ -1,0 +1,124 @@
+.home-container {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+/* Hero Section */
+.hero-section {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+  background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
+    url("https://images.unsplash.com/photo-1504384308090-c894fdcc538d")
+      no-repeat center/cover;
+  color: white;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.hero-subtitle {
+  font-size: 1.3rem;
+  margin-bottom: 30px;
+  line-height: 1.6;
+}
+
+.hero-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.hero-btn {
+  padding: 12px 22px;
+  border-radius: 10px;
+  background: #0077ff;
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: 0.3s ease;
+}
+
+.hero-btn:hover {
+  background: #005ecc;
+}
+
+.hero-btn.secondary {
+  background: #ff9800;
+}
+
+.hero-btn.secondary:hover {
+  background: #e68900;
+}
+
+/* About Section */
+.about-section {
+  padding: 50px 20px;
+  background: #f9f9f9;
+}
+
+.about-section h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+  color: #222;
+}
+
+/* Job Market Insights */
+.insights-section {
+  padding: 50px 20px;
+}
+
+.insights-section h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+  color: #222;
+}
+
+.insights-section p {
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+/* Quotes Section */
+.quotes-section {
+  padding: 50px 20px;
+  background: #f9f9f9;
+}
+
+.quotes-section h2 {
+  font-size: 2rem;
+  margin-bottom: 25px;
+}
+
+.quotes-section blockquote {
+  font-size: 1.2rem;
+  font-style: italic;
+  margin: 20px auto;
+  max-width: 700px;
+  padding: 15px 20px;
+  border-left: 5px solid #0077ff;
+  background: white;
+  border-radius: 8px;
+}
+
+/* Closing CTA */
+.cta-section {
+  padding: 50px 20px;
+  background: linear-gradient(to right, #0077ff, #00c6ff);
+  color: white;
+}
+
+.cta-section h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}

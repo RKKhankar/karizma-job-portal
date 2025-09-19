@@ -1,0 +1,80 @@
+.companylist-container {
+  max-width: 95%;
+  margin: 30px auto;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  font-family: "Segoe UI", sans-serif;
+}
+
+.companylist-container h1 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #1f2937;
+}
+
+.subtitle {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #6b7280;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.controls input {
+  width: 60%;
+  padding: 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.controls select {
+  padding: 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.company-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.company-table th,
+.company-table td {
+  border: 1px solid #e5e7eb;
+  padding: 12px;
+  text-align: left;
+  font-size: 14px;
+}
+
+.company-table th {
+  background: #f3f4f6;
+  font-weight: 600;
+}
+
+.company-table tbody tr:nth-child(even) {
+  background: #f9fafb;
+}
+
+.company-table a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.company-table a:hover {
+  text-decoration: underline;
+}
+
+.no-results {
+  text-align: center;
+  color: #6b7280;
+  padding: 20px;
+}
