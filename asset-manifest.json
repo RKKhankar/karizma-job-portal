@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karizma-job-portal/static/css/main.574e9081.css",
+    "main.js": "/karizma-job-portal/static/js/main.86acb823.js",
+    "static/js/453.580cde45.chunk.js": "/karizma-job-portal/static/js/453.580cde45.chunk.js",
+    "index.html": "/karizma-job-portal/index.html",
+    "main.574e9081.css.map": "/karizma-job-portal/static/css/main.574e9081.css.map",
+    "main.86acb823.js.map": "/karizma-job-portal/static/js/main.86acb823.js.map",
+    "453.580cde45.chunk.js.map": "/karizma-job-portal/static/js/453.580cde45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.574e9081.css",
+    "static/js/main.86acb823.js"
+  ]
+}
