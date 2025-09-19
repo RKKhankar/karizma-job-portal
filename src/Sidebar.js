@@ -85,8 +85,8 @@ function Sidebar({ isOpen, toggleSidebar }) {
         ✕
       </button>
       <ul>
-        <li><Link to="/" onClick={toggleSidebar}>Dashboard</Link></li>
         <li><Link to="/home" onClick={toggleSidebar}>Home</Link></li>
+        <li><Link to="/" onClick={toggleSidebar}>Dashboard</Link></li>
         <li><Link to="/search/jobs" onClick={toggleSidebar}>Search Jobs</Link></li>
         <li><Link to="/search/companies" onClick={toggleSidebar}>Search Companies</Link></li>
         <li><Link to="/lookup-company" onClick={toggleSidebar}>Lookup Company</Link></li>
